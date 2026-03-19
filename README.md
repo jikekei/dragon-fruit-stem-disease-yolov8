@@ -135,9 +135,6 @@ yolo export model=weights/best.pt format=onnx imgsz=512 simplify=True
 
 ## 结果可视化
 
-建议在 GitHub 首页直接展示以下图片：
-
-
 ## 可视化结果
 
 ![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/81ecd22a6483523cac78bee7a64a33154e1e1ebb/results.png)
