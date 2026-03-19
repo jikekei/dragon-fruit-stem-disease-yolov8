@@ -141,9 +141,9 @@ yolo export model=weights/best.pt format=onnx imgsz=512 simplify=True
 ## 可视化结果
 
 ![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/81ecd22a6483523cac78bee7a64a33154e1e1ebb/results.png)
-[PR Curve](./BoxPR_curve.png)
-[Confusion Matrix](./confusion_matrix.png)
-[Validation Prediction](./val_batch0_pred.jpg)
+![image]https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/BoxPR_curve.png)
+![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/confusion_matrix.png)
+![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/val_batch0_labels.jpg)
 
 
 当前目录中已包含：
