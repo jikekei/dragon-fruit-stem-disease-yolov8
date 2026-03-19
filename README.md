@@ -12,6 +12,8 @@
 - 训练曲线、PR 曲线、F1 曲线、混淆矩阵
 - 验证集预测可视化样例
 
+![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/val_batch0_labels.jpg)
+
 ## 检测类别
 
 | ID | 类别 | 中文名 | 典型症状 |
@@ -140,8 +142,6 @@ yolo export model=weights/best.pt format=onnx imgsz=512 simplify=True
 ![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/81ecd22a6483523cac78bee7a64a33154e1e1ebb/results.png)
 ![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/BoxPR_curve.png)
 ![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/confusion_matrix.png)
-![image](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/26614e1c84be6323c04da3ca358522de277d4ab8/val_batch0_labels.jpg)
-
 
 当前目录中已包含：
 
