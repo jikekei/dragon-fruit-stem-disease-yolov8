@@ -140,10 +140,10 @@ yolo export model=weights/best.pt format=onnx imgsz=512 simplify=True
 ```markdown
 ## 可视化结果
 
-![Training Results](./results.png)
-![PR Curve](./BoxPR_curve.png)
-![Confusion Matrix](./confusion_matrix.png)
-![Validation Prediction](./val_batch0_pred.jpg)
+[Training Results](https://github.com/jikekei/dragon-fruit-stem-disease-yolov8/blob/81ecd22a6483523cac78bee7a64a33154e1e1ebb/results.png)
+[PR Curve](./BoxPR_curve.png)
+[Confusion Matrix](./confusion_matrix.png)
+[Validation Prediction](./val_batch0_pred.jpg)
 ```
 
 当前目录中已包含：
