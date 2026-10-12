@@ -232,7 +232,7 @@ class_id x_center y_center width height
 | PyTorch | 2.10.0+cu126 |
 | CUDA | 12.6 |
 | Ultralytics | 8.4.21 |
-| GPU | NVIDIA GeForce GTX 1060 3GB |
+| GPU | NVIDIA GeForce RTX 4090 48GB |
 
 ## 与其他检测模型或不同训练参数的对比结果
 
